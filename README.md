@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Muhammad Danu Setiawan an undergraduated student at Mercu Buana University. Interested in learning and exploring more about Website Development and Machine Learning.
+I'm Muhammad Danu Setiawan an fresh graduate informatics engineering student at Mercu Buana University. Interested in learning and exploring more about Website Development and Machine Learning.
 
 ### Tech Stacks
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" /></a>
