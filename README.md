@@ -30,7 +30,7 @@ I'm Danu — a fresh graduate with a growing passion for **Data Science and Anal
 </a>
 </p>
 
-### 🤝 Connect with me :smiley:
+### 🤝 Connect with me 
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/muhammaddanusetiawan/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:danumuhammad085@gmail.com)
