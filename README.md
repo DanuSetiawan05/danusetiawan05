@@ -11,8 +11,6 @@ I'm Danu — a fresh graduate with a growing passion for **Data Science and Anal
 
 - 📈 **[Classification & Regression: Gender Empowerment Index](https://github.com/DanuSetiawan05/Classification-and-Regresion-Gender-Empowerment-Index)** — Predicting Indonesia's Gender Empowerment Index (2021–2023) using KNN and Linear Regression, combining both classification and regression analysis.
 - 🏋️ **[Gym Member Exercise Classification](https://github.com/DanuSetiawan05/Classification-Gym-Member-Exercise-Tracking)** — Classifies gym members' exercise habits using Decision Trees, predicting experience level based on age, gender, weight, height, BPM, and other factors.
-- 🌳 **[Decision Tree vs KNN Comparison](https://github.com/DanuSetiawan05/Comparison-of-Decision-Tree-And-KNN)** — Comparing KNN and Decision Tree algorithm performance for classifying student performance factors.
-- 🦷 **[Appointment Dentist](https://github.com/DanuSetiawan05/Appointment-Dentist)** — A Laravel-based dental clinic appointment booking system with patient booking, admin dashboard, and automated email notifications.
 
 ### 🛠️ Tech Stacks
 
