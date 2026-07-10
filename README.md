@@ -9,8 +9,8 @@ I'm Danu — a fresh graduate with a growing passion for **Data Science and Anal
 
 ### 🚀 Featured Projects
 
-- 📈 **[Classification & Regression: Gender Empowerment Index](https://github.com/DanuSetiawan05/Classification-and-Regresion-Gender-Empowerment-Index)** — Predicting Indonesia's Gender Empowerment Index (2021–2023) using KNN and Linear Regression, combining both classification and regression analysis.
-- 🏋️ **[Gym Member Exercise Classification](https://github.com/DanuSetiawan05/Classification-Gym-Member-Exercise-Tracking)** — Classifies gym members' exercise habits using Decision Trees, predicting experience level based on age, gender, weight, height, BPM, and other factors.
+- **[Classification & Regression: Gender Empowerment Index](https://github.com/DanuSetiawan05/Classification-and-Regresion-Gender-Empowerment-Index)** — Predicting Indonesia's Gender Empowerment Index (2021–2023) using KNN and Linear Regression, combining both classification and regression analysis.
+- **[Gym Member Exercise Classification](https://github.com/DanuSetiawan05/Classification-Gym-Member-Exercise-Tracking)** — Classifies gym members' exercise habits using Decision Trees, predicting experience level based on age, gender, weight, height, BPM, and other factors.
 
 ### 🛠️ Tech Stacks
 
