@@ -1,17 +1,12 @@
 ## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Danu — a fresh graduate with a growing passion for **Data Science and Analytics**. I enjoy working with data using **Python (Pandas, NumPy)** and **SQL**, from cleaning and exploring datasets to uncovering meaningful patterns. I'm still exploring different areas within data science to find where my interest fits best, and I'm always excited to learn new tools and take on real-world data projects. Open to collaboration and new opportunities!
+I'm Danu - a fresh graduate with a growing passion for **Data Science and Analytics**. I enjoy working with data using **Python (Pandas, NumPy)** and **SQL**, from cleaning and exploring datasets to uncovering meaningful patterns. I'm still exploring different areas within data science to find where my interest fits best, and I'm always excited to learn new tools and take on real-world data projects. Open to collaboration and new opportunities!
 
-- 🔭 Currently exploring: **Data Science — Data Analysis & Machine Learning fundamentals**
+- 🔭 Currently exploring: **Data Science - Data Analysis & Machine Learning fundamentals**
 - 🌱 Learning: **Data Analysis & Machine Learning fundamentals**, especially **SQL for data analysis** and **exploratory data analysis (EDA)** techniques
 - 💬 Ask me about: **Python, Pandas, NumPy, SQL**
-- 📫 Open to: **internship / entry-level Data Analyst or Data Science opportunities**
-
-### 🚀 Featured Projects
-
-- **[Classification & Regression: Gender Empowerment Index](https://github.com/DanuSetiawan05/Classification-and-Regresion-Gender-Empowerment-Index)** — Predicting Indonesia's Gender Empowerment Index (2021–2023) using KNN and Linear Regression, combining both classification and regression analysis.
-- **[Gym Member Exercise Classification](https://github.com/DanuSetiawan05/Classification-Gym-Member-Exercise-Tracking)** — Classifies gym members' exercise habits using Decision Trees, predicting experience level based on age, gender, weight, height, BPM, and other factors.
-
+- 📫 Open to: **internship / entry-level Data Science or Data Analyst opportunities**
+  
 ### 🛠️ Tech Stacks
 
 <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" /></a>
